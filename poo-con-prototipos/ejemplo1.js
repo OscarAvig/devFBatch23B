@@ -20,4 +20,4 @@ const Perro = new Animal ("Perro", "Cafe");
 console.log(jirafa);
 console.log(jirafa.sonidoAnimal());
 
-/* Prototipe chaning
+/* Prototipe chaning */
